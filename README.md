@@ -46,4 +46,14 @@ Using MPU6050 6DOF sensor with ESP32(wroom) Lilygo board
   
   ![readouts](https://raw.githubusercontent.com/godesz/esp32_MPU6050/master/Images/data_plotted.png)
   
+  Colors:
+  blue    - raw acc data (AccVectorVal)
+  red     - Kalman filtered data (KF_vector)
+  yellow  - MotionState
+  green   - LEDState
+  
+  
+  
+  
+  
  email: godo.bence@science.unideb.hu

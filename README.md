@@ -17,6 +17,8 @@ Using MPU6050 6DOF sensor with ESP32(wroom) Lilygo board
   LilyGO ESP32 board + 0.96 OLED + battery holder:
   https://www.banggood.com/LILYGO-TTGO-ESP32-WiFi-bluetooth-18650-Battery-Protection-Board-0_96-Inch-OLED-Development-Tool-p-1213497.html?cur_warehouse=USA
   
+  
+  
   MPU6050 to ESP32
   Vcc     - 5V
   GND     - GND

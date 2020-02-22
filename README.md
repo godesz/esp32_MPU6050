@@ -28,6 +28,7 @@ Using MPU6050 6DOF sensor with ESP32(wroom) Lilygo board
   
   
   
+  
   MPU6050 to ESP32
   Vcc     - 5V
   GND     - GND
@@ -39,5 +40,10 @@ Using MPU6050 6DOF sensor with ESP32(wroom) Lilygo board
   Vcc     - 5V
   GND     - GND
   DI      - GPIO5
+  
+  
+  Basic data plotted
+  
+  ![readouts](https://raw.githubusercontent.com/godesz/esp32_MPU6050/master/Images/data_plotted.png)
   
  email: godo.bence@science.unideb.hu

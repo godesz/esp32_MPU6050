@@ -7,15 +7,24 @@ Using MPU6050 6DOF sensor with ESP32(wroom) Lilygo board
   a 16-led WS2812B strip play the feedback role.
   
   Adafruit MPU6050:
+  
   https://www.adafruit.com/product/3886
+  
   neccessary libraries in the Adafruit learnpage:
+  
   https://learn.adafruit.com/mpu6050-6-dof-accelerometer-and-gyro?view=all
   
   NeoPixel 16LED strip (ws2812b):
+  
   https://www.adafruit.com/product/1463
   
   LilyGO ESP32 board + 0.96 OLED + battery holder:
+  
   https://www.banggood.com/LILYGO-TTGO-ESP32-WiFi-bluetooth-18650-Battery-Protection-Board-0_96-Inch-OLED-Development-Tool-p-1213497.html?cur_warehouse=USA
+  
+  Kalman Filter library:
+
+  https://github.com/denyssene/SimpleKalmanFilter
   
   
   

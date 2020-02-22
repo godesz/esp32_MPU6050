@@ -48,9 +48,13 @@ Using MPU6050 6DOF sensor with ESP32(wroom) Lilygo board
   
   Colors:
   blue    - raw acc data (AccVectorVal)
+
   red     - Kalman filtered data (KF_vector)
+
   yellow  - MotionState
+
   green   - LEDState
+
   
   
   

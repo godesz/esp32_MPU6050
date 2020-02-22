@@ -59,5 +59,3 @@ Using MPU6050 6DOF sensor with ESP32(wroom) Lilygo board
   
   
   
-  
- email: godo.bence@science.unideb.hu

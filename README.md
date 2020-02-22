@@ -10,7 +10,7 @@ Using MPU6050 6DOF sensor with ESP32(wroom) Lilygo board
   
   https://www.adafruit.com/product/3886
   
-  neccessary libraries in the Adafruit learnpage:
+  neccessary libraries on the Adafruit learnpage:
   
   https://learn.adafruit.com/mpu6050-6-dof-accelerometer-and-gyro?view=all
   
